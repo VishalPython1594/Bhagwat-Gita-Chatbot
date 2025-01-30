@@ -6,6 +6,6 @@ langchain-huggingface
 langchain-chroma
 langchain-google-genai
 langchain-core
-dotenv
+python-dotenv
 huggingface_hub
 chromadb
